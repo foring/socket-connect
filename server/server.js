@@ -13,7 +13,7 @@ app.use('/', function (req, res) {
           '<head>' +
           '<script src="../dist/bundle.js"></script>' +
           '</head>' +
-          '<body>sss' +
+          '<body>' +
           '</body>' +
           '</html>');
 });
